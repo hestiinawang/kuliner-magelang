@@ -1,0 +1,734 @@
+user_id,item,rating
+U001,BS Resto,4.2
+U001,"Warung Makan Senerek ""Bu Atmo""",4.6
+U001,Kuliner Sigaluh,4.7
+U001,Kuliner Lembah Tidar,4.1
+U001,Ramenhead Magelang,4.6
+U001,Mie Gacoan Tidar Magelang,4.9
+U001,Kitakata Ramen & Donburi Magelang,4.6
+U001,Sop Senerek Pak Parto,4.6
+U001,Rumah Makan Magelang,4.4
+U001,Kuliner Griyo Semiliir,4.1
+U001,"Sate Babi dan Sop Bakut 39 Magelang, Cab Pecenongan Jakarta Magelang",4.3
+U001,Depot Es Semanggi,4.9
+U001,Kuliner sejuta bunga,3.9
+U001,"Bakso dan Nasi Goreng Pak Eko , Kuliner TVJ alun alun",4.4
+U001,Tahu Pojok Magelang 1,4.3
+U001,Rame Rame Cafeatery Magelang,5.0
+U001,Choky Spaghetti - Magelang Kota,5.0
+U001,Kuliner Cak Win,4.3
+U001,Sop Buntut Haji Wongso Magelang,4.2
+U001,Nasi Goreng Pak Dodok,4.5
+U002,Kampung Ulam Ngrajek,4.7
+U002,Gohan-Ku Magelang,4.6
+U002,Ayam Goreng Ninit,4.6
+U002,Kupat Tahu Pak Larto,4.8
+U002,Gudeg Poncol,4.3
+U002,Kuliner Rest Area Banjarnegoro,4.2
+U002,"Tahu Kupat ""PELOPOR""",4.6
+U002,Patio Colonial,4.6
+U002,"Kuliner Legend ""Mie AA Chinese Food""",4.4
+U002,YANGKOMOCHI MAGELANG,4.8
+U002,Angkringan Mas Didot,4.4
+U002,Ayam Penyet Surabaya Magelang,4.4
+U002,Wedang Kacang Kebon,4.3
+U002,Ronde Miroso,4.6
+U002,Cafetaria Cemara Dua,4.4
+U002,Choky Spaghetti - Magelang Kota,4.7
+U003,Pusat Oleh - Oleh Lezat,4.5
+U003,Sego N'Deso,4.2
+U003,Kuliner Serayu,4.4
+U003,Cafe and Resto Mr.jo Magelang,5.0
+U003,WM Sehati Spesial Mangut Beong dan Homestay,4.7
+U003,Nasi Goreng Pak Dodok,4.4
+U003,Mie Gacoan Tidar Magelang,4.8
+U003,Kuliner Rindam,4.3
+U003,Warung Makan Mbok Ganjar,4.7
+U003,NGEMILYUKK MAGELANG STORE,4.3
+U003,Seafood Alun Alun Magelang,4.1
+U003,Warung makan Mbok Tu,4.3
+U003,Nasi Goreng Pak Yatno,4.5
+U003,Choky Spaghetti - Magelang Kota,4.8
+U003,Makanan Beku,5.0
+U003,Tahu Pojok Magelang 1,4.7
+U003,PHUKET - Authentic Southern Thai Food & Grocery Store,4.7
+U004,Kitakata Ramen & Donburi Magelang,4.9
+U004,Bond Cafe,4.1
+U004,Warung Makan Opor Entok Johar Sari,4.3
+U004,Depot Es Semanggi,4.9
+U004,"Wajik Salaman Ny. In, Oleh-oleh Magelang, Makanan khas Magelang",4.7
+U004,Nasi Lesah & Nasi Sayur Pak Badut,4.8
+U004,Patio Colonial,5.0
+U004,BS Resto,4.1
+U004,Lokal Folk Cafe Magelang,4.7
+U004,Gudeg Poncol,4.5
+U004,Aoka Resto - Kuliner Papua Magelang,4.9
+U004,Emado's Shawarma Magelang,4.2
+U004,Kuliner Rindam,4.5
+U005,Ayam Goreng Ninit,4.4
+U005,Caping Resto Borobudur,4.6
+U005,Aoka Resto - Kuliner Papua Magelang,5.0
+U005,Bakso Enak Kutoarjo,4.7
+U005,Kuliner Kartika Sari,4.4
+U005,Momoyo Tanjung Magelang,4.3
+U005,Warung Bakmi Pak Min,4.0
+U005,Waroeng Kemboelan,4.6
+U005,Kuliner Cak Win,4.4
+U005,Pondok Bakaran,4.7
+U005,Pasar Kebon Watu Gede,4.7
+U006,Warung Makan Mbok Ganjar,4.7
+U006,Menoreh Restaurant,4.5
+U006,"Kuliner Legend ""Es Murni Magelang""",4.6
+U006,BS Resto,4.4
+U006,Kuliner Serayu,4.5
+U006,"Kuliner Legend ""Mie AA Chinese Food""",4.7
+U006,Warung Bakmi Pak Min,4.1
+U006,Kupat Tahu Pak Larto,4.4
+U006,PHUKET - Authentic Southern Thai Food & Grocery Store,4.8
+U006,Rumah Makan Tip Top,4.6
+U006,Koki Joni Magelang,4.5
+U006,Nasi Goreng Pak Yatno,4.4
+U006,Restaurant La Table by Le Temple Borobudur,5.0
+U006,Kampung Ulam Ngrajek,4.6
+U006,RM Amis Amis Magelang,4.4
+U006,Pasar Tukangan,4.4
+U006,Wedang Kacang Kebon,4.4
+U006,Pondok Bakaran,4.2
+U006,Tape Ketan Muntilan,4.3
+U007,Gohan-Ku Magelang,4.1
+U007,Choky Spaghetti - Magelang Kota,4.7
+U007,Kuliner sejuta bunga,4.3
+U007,Mie Gacoan Tidar Magelang,4.7
+U007,Kuliner Kartika Sari,4.4
+U007,RM Ayam Kosek Panjiwo (PUSAT),4.6
+U007,Ayam Penyet Surabaya Magelang,4.5
+U007,Gudeg Poncol,4.2
+U007,Nasi Goreng Pak Yatno,4.3
+U007,Wedang Kacang Kebon,4.6
+U007,Sate Ayam Sidomoro,4.4
+U007,Tahu Pojok Magelang 1,4.5
+U007,Patio Colonial,4.9
+U007,Kedai Mbah Hogen,4.5
+U007,Bond Cafe,4.7
+U007,Koki Joni Magelang,4.5
+U007,Kuliner Lembah Tidar,4.2
+U007,Kuliner Sunan Kalijaga Rw.4,4.6
+U007,Menoreh Restaurant,4.9
+U008,Angkringan Mas Didot,4.5
+U008,Tape Ketan Muntilan,4.6
+U008,Soto Ayam Pak Trimo,4.3
+U008,Kitakata Ramen & Donburi Magelang,5.0
+U008,"Bakso dan Nasi Goreng Pak Eko , Kuliner TVJ alun alun",4.6
+U008,Nasi Godog & Bakmi Pak Naryo Rindam Magelang,4.2
+U008,Kuliner Lembah Tidar,4.1
+U008,Joglo Tanjung,4.5
+U008,Ramenhead Magelang,4.3
+U008,Alun-Alun Kota Magelang,4.5
+U008,Kuliner Serayu,4.6
+U008,RM Ayam Kosek Panjiwo (PUSAT),4.6
+U008,Geblek Gathuk Magelang,5.0
+U009,Pusat Oleh - Oleh Lezat,4.7
+U009,Kuliner Kartika Sari,4.4
+U009,Keboen Semilir,4.1
+U009,Waroeng Kemboelan,4.6
+U009,Kuliner Serayu,4.3
+U009,Pasar Rejowinangun Kota Magelang,4.6
+U009,Bakso Enak Kutoarjo,4.2
+U009,Warung Makan Purnama,4.2
+U009,"Bakso dan Nasi Goreng Pak Eko , Kuliner TVJ alun alun",4.3
+U009,Es Coklat Impian Magelang,4.2
+U009,RM Amis Amis Magelang,4.7
+U009,Nasi Goreng Pak Dodok,4.5
+U010,Bond Cafe,4.2
+U010,Kampung Ulam Ngrajek,4.7
+U010,Toxic Magelang,4.4
+U010,Nasi Godog & Bakmi Pak Naryo Rindam Magelang,4.6
+U010,Wedang Kacang Kebon,4.7
+U010,"NAOKI CHICKEN AND PLAYGROUND BANDONGAN, MAGELANG",4.8
+U010,Rumah Makan Magelang,4.4
+U010,Patio Colonial,4.8
+U010,Koki Joni Magelang,5.0
+U010,Makanan Khas Magelang,3.6
+U011,Koki Joni Magelang,5.0
+U011,Waroeng Kemboelan,5.0
+U011,"Warung Makan Sate ""Roda Tiga Pak No""",4.3
+U011,Lombok Idjo Magelang,4.6
+U011,Kuliner Sunan Kalijaga Rw.4,4.6
+U011,Kuliner Jenggolo,5.0
+U011,RM Laras Hati,4.8
+U011,Bakso Enak Kutoarjo,4.7
+U011,Warung Senerek Sabar Menanti,4.4
+U011,Kuliner Serayu,4.4
+U011,"Wajik Salaman Ny. In, Oleh-oleh Magelang, Makanan khas Magelang",4.9
+U011,kuliner magelang kupat tahu pejabat,5.0
+U011,RM Ayam Kosek Panjiwo (PUSAT),4.5
+U011,Kuliner Tuin Van Java,4.7
+U011,Kuliner Rest Area Banjarnegoro,4.3
+U012,Kuliner Sunan Kalijaga Rw.4,4.5
+U012,Pasar Tukangan,4.2
+U012,Gohan-Ku Magelang,4.3
+U012,RM Laras Hati,4.5
+U012,kuliner magelang kupat tahu pejabat,5.0
+U012,Cafetaria Cemara Dua,4.5
+U012,Sop Senerek Pak Parto,4.2
+U012,Warung Bakmi Pak Min,4.2
+U012,Kitakata Ramen & Donburi Magelang,4.8
+U012,Waroeng Kemboelan,4.8
+U013,Depot Es Semanggi,4.7
+U013,Cafe and Resto Mr.jo Magelang,4.6
+U013,"Bakso dan Nasi Goreng Pak Eko , Kuliner TVJ alun alun",4.7
+U013,Kupat Tahu Pak Larto,4.6
+U013,Kuliner Lembah Tidar,4.3
+U013,Ronde Miroso,4.2
+U013,Kuliner Kartika Sari,4.1
+U013,Kedai Mbah Hogen,4.6
+U013,Seafood Alun Alun Magelang,4.4
+U013,Lombok Idjo Magelang,4.8
+U014,"Waroeng Spesial Sambal ""SS"" Magelang",4.1
+U014,Gohan-Ku Magelang,4.1
+U014,Stupa Restaurant,4.7
+U014,Caping Resto Borobudur,5.0
+U014,Lombok Idjo Magelang,4.7
+U014,Ronde Miroso,4.6
+U014,Rumah Makan Tip Top,4.3
+U014,"Kuliner Legend ""Mie AA Chinese Food""",4.8
+U014,Sate Ayam Sidomoro,4.6
+U014,kuliner magelang kupat tahu pejabat,5.0
+U014,Emado's Shawarma Magelang,4.5
+U014,Patio Colonial,5.0
+U014,PKL Mertoyudan,4.0
+U014,Kedai Bukit Rhema,5.0
+U014,Kuliner Rindam,4.3
+U015,ANEKA JENANG,4.4
+U015,Kuliner Sunan Kalijaga Rw.4,4.9
+U015,Patio Colonial,4.8
+U015,Kuliner Sigaluh,4.6
+U015,PHUKET - Authentic Southern Thai Food & Grocery Store,5.0
+U015,Ramenhead Magelang,4.3
+U015,Sego N'Deso,4.0
+U015,Aoka Resto - Kuliner Papua Magelang,4.7
+U015,Pasar Rejowinangun Kota Magelang,4.4
+U015,Es Coklat Impian Magelang,4.4
+U015,Sop Senerek Pak Parto,4.7
+U015,Pusat Oleh - Oleh Lezat,4.5
+U015,Alun-Alun Kota Magelang,4.7
+U015,Tahu Pojok Magelang 1,4.4
+U015,Soto Ayam Mbah Mul,4.9
+U015,Rumah Makan Kanjeng Mami,4.7
+U016,BS Resto,4.5
+U016,Warung Bakmi Pak Min,4.0
+U016,Waroeng Kemboelan,4.9
+U016,Pasar Kebon Watu Gede,4.4
+U016,"Waroeng Spesial Sambal ""SS"" Magelang",4.2
+U016,Tahu Pojok Magelang 1,4.5
+U016,Sop Senerek Pak Parto,4.3
+U016,"NAOKI CHICKEN AND PLAYGROUND BANDONGAN, MAGELANG",4.9
+U016,Caping Resto Borobudur,4.5
+U016,HONMACHI JAPANESE FUSION MAGELANG,5.0
+U017,Kuliner Rindam,4.3
+U017,Momoyo Tanjung Magelang,4.4
+U017,Kuliner Sigaluh,4.6
+U017,Kuliner Sunan Kalijaga Rw.4,4.6
+U017,Mangut Beong Asli Borobudur 2,4.3
+U017,"Kuliner Legend ""Mie AA Chinese Food""",4.5
+U017,Caping Resto Borobudur,5.0
+U017,Wedang Kacang Kebon,4.7
+U017,"Gado-Gado Jelita (Kuliner Kauman , Kota Magelang Tengah)",4.0
+U017,Kedai Mbah Hogen,4.5
+U017,Kuliner Rest Area Banjarnegoro,4.1
+U017,Warung Senerek Sabar Menanti,4.5
+U017,Cafetaria Cemara Dua,4.1
+U017,Toxic Magelang,4.5
+U017,Kupat Tahu Pak Pangat,4.6
+U017,Sate Ayam Sidomoro,4.4
+U017,RM Laras Hati,4.7
+U017,Kuliner Cak Win,4.1
+U018,Rumah Makan Magelang,4.1
+U018,Rame Rame Cafeatery Magelang,4.8
+U018,Bond Cafe,4.6
+U018,Rumah Makan Kanjeng Mami,4.5
+U018,Emado's Shawarma Magelang,4.0
+U018,Sate Ayam Sidomoro,4.7
+U018,Kuliner Sigaluh,4.8
+U018,Restoran Pringgondani,4.8
+U018,Cafetaria Cemara Dua,4.4
+U018,Kampung Ulam Ngrajek,4.7
+U018,Warung Makan Purnama,4.3
+U018,Cafe and Resto Mr.jo Magelang,4.8
+U018,Kuliner Rest Area Banjarnegoro,4.1
+U018,Kedai Mbah Hogen,4.3
+U018,Depot Es Semanggi,4.4
+U018,Pasar Tukangan,4.5
+U018,"Wajik Salaman Ny. In, Oleh-oleh Magelang, Makanan khas Magelang",4.9
+U019,Warung makan Mbok Tu,4.8
+U019,"Bakso dan Nasi Goreng Pak Eko , Kuliner TVJ alun alun",4.4
+U019,Mie Gacoan Tidar Magelang,4.5
+U019,Pasar Kebon Watu Gede,4.4
+U019,ANEKA JENANG,4.6
+U019,Es Coklat Impian Magelang,4.2
+U019,RM. Bale Kambang,4.1
+U019,Joglo Tanjung,4.5
+U019,Nasi Lesah & Nasi Sayur Pak Badut,4.5
+U019,Nasi Goreng Pak Dodok,4.7
+U019,Ramenhead Magelang,4.7
+U020,Kupat Tahu Pak Larto,4.8
+U020,Bakmi Pangsit Tjek Siang,4.5
+U020,Gohan-Ku Magelang,4.1
+U020,Soto Ayam Pak Trimo,4.5
+U020,Kuliner Griyo Semiliir,4.3
+U020,Aoka Resto - Kuliner Papua Magelang,4.7
+U020,"Chinese Food ""Pak Sar""(Pawirokusuman)",4.5
+U020,Patio Colonial,5.0
+U020,Rumah Makan Kanjeng Mami,4.4
+U020,Waroeng Kemboelan,4.6
+U020,"Wajik Salaman Ny. In, Oleh-oleh Magelang, Makanan khas Magelang",4.6
+U020,Ramenhead Magelang,4.3
+U020,NGEMILYUKK MAGELANG STORE,4.1
+U020,Cafe and Resto Mr.jo Magelang,4.6
+U020,Kuliner Lembah Tidar,4.2
+U020,Seafood Alun Alun Magelang,4.2
+U021,Kedai Bukit Rhema,5.0
+U021,Kupat Tahu Pak Larto,4.6
+U021,Kuliner magelang,3.0
+U021,Keboen Semilir,4.6
+U021,Sate Ayam Sidomoro,4.3
+U021,Seafood Alun Alun Magelang,4.1
+U021,"Waroeng Spesial Sambal ""SS"" Magelang",4.5
+U021,Es Coklat Impian Magelang,4.4
+U021,"Kuliner Legend ""Es Murni Magelang""",4.6
+U021,Soto Ayam Mbah Mul,4.7
+U022,Kuliner Griyo Semiliir,4.2
+U022,Mie Gacoan Tidar Magelang,4.9
+U022,Menoreh Restaurant,4.8
+U022,Sego N'Deso,4.4
+U022,Caping Resto Borobudur,4.6
+U022,"Warung Makan Senerek ""Bu Atmo""",4.5
+U022,Keboen Semilir,4.5
+U022,Kupat tahu Pak Slamet Magelang,4.1
+U022,Kuliner Sunan Kalijaga Rw.4,4.6
+U022,Rumah Makan Magelang,4.2
+U022,ANEKA JENANG,4.6
+U022,Makanan Khas Magelang,3.7
+U022,Momoyo Tanjung Magelang,4.7
+U022,Restoran Pringgondani,4.5
+U022,NGEMILYUKK MAGELANG STORE,4.6
+U022,Joglo Tanjung,4.3
+U022,"Gado-Gado Jelita (Kuliner Kauman , Kota Magelang Tengah)",4.0
+U022,Lombok Idjo Magelang,4.8
+U022,Kuliner Rest Area Banjarnegoro,4.3
+U023,HONMACHI JAPANESE FUSION MAGELANG,5.0
+U023,Mie Gacoan Tidar Magelang,4.8
+U023,Kupat Tahu Dompleng Bu supardi blabak,4.3
+U023,Wedang Kacang Kebon,4.6
+U023,Warung makan Mbok Tu,4.3
+U023,Ronde Miroso,4.8
+U023,"Wajik Salaman Ny. In, Oleh-oleh Magelang, Makanan khas Magelang",4.7
+U023,"Warung Makan Senerek ""Bu Atmo""",4.4
+U023,Ramenhead Magelang,4.4
+U023,Mangut Beong Asli Borobudur 2,4.6
+U024,Warung makan Mbok Tu,4.8
+U024,Pasar Tukangan,4.3
+U024,Aoka Resto - Kuliner Papua Magelang,5.0
+U024,Rumah Makan Tip Top,4.2
+U024,Sop Senerek Pak Parto,4.5
+U024,"Waroeng Spesial Sambal ""SS"" Magelang",4.4
+U024,"Warung Makan Senerek ""Bu Atmo""",4.3
+U024,Kuliner Serayu,4.8
+U024,YANGKOMOCHI MAGELANG,4.9
+U024,Rumah Makan Magelang,4.4
+U024,Bakmi Pangsit Tjek Siang,4.3
+U025,Pasar Rejowinangun Kota Magelang,4.6
+U025,Ronde Miroso,4.7
+U025,HONMACHI JAPANESE FUSION MAGELANG,4.9
+U025,Tape Ketan Muntilan,4.4
+U025,"Bakso dan Nasi Goreng Pak Eko , Kuliner TVJ alun alun",4.7
+U025,Cafetaria Cemara Dua,4.7
+U025,Bakmi Jendralan,4.3
+U025,Wedang Kacang Kebon,4.8
+U025,Kuliner Cak Win,4.1
+U025,Kuliner Jenggolo,4.7
+U025,Kupat tahu Pak Slamet Magelang,4.3
+U025,Kuliner Tuin Van Java,4.5
+U025,Toxic Magelang,4.5
+U025,Kuliner magelang,3.2
+U025,Makanan Beku,5.0
+U025,Menoreh Restaurant,4.5
+U025,Sop Senerek Pak Parto,4.6
+U025,Caping Resto Borobudur,4.6
+U025,"Kuliner Legend ""Mie AA Chinese Food""",4.5
+U026,Kuliner Sunan Kalijaga Rw.4,4.7
+U026,Pusat Oleh - Oleh Lezat,4.4
+U026,Kupat tahu Pak Slamet Magelang,4.1
+U026,"Warung Makan Senerek ""Bu Atmo""",4.4
+U026,Warung Makan Opor Entok Johar Sari,4.4
+U026,Toxic Magelang,4.4
+U026,Warung Makan Mbok Ganjar,4.5
+U026,Nasi Godog & Bakmi Pak Naryo Rindam Magelang,4.6
+U026,Menoreh Restaurant,4.7
+U026,Rame Rame Cafeatery Magelang,4.6
+U026,PKL Mertoyudan,4.2
+U026,ANEKA JENANG,4.5
+U026,Waroeng Kemboelan,4.6
+U026,Kuliner Lembah Tidar,4.4
+U026,Warung Bakmi Pak Min,4.0
+U026,"NAOKI CHICKEN AND PLAYGROUND BANDONGAN, MAGELANG",4.8
+U026,Es Coklat Impian Magelang,4.1
+U026,Nasi Goreng Pak Dodok,4.8
+U026,Kuliner Tuin Van Java,4.4
+U027,Es Coklat Impian Magelang,4.0
+U027,Bakso Enak Kutoarjo,4.6
+U027,Sego N'Deso,4.2
+U027,Rumah Makan Tip Top,4.6
+U027,RM Es Eny,4.6
+U027,Choky Spaghetti - Magelang Kota,5.0
+U027,Kupat Tahu Pak Pangat,4.9
+U027,Momoyo Tanjung Magelang,4.7
+U027,Angkringan Mas Didot,4.2
+U027,Warung Senerek Sabar Menanti,4.4
+U027,"Chinese Food ""Pak Sar""(Pawirokusuman)",4.5
+U027,Tape Ketan Muntilan,4.5
+U027,Pondok Bakaran,4.2
+U027,WM Sehati Spesial Mangut Beong dan Homestay,4.2
+U027,Nasi Godog & Bakmi Pak Naryo Rindam Magelang,4.2
+U028,Es Coklat Impian Magelang,4.0
+U028,Lombok Idjo Magelang,4.5
+U028,Cafe and Resto Mr.jo Magelang,5.0
+U028,Alun-Alun Kota Magelang,4.6
+U028,"Wajik Salaman Ny. In, Oleh-oleh Magelang, Makanan khas Magelang",4.9
+U028,Menoreh Restaurant,4.6
+U028,Sop Senerek Pak Parto,4.1
+U028,Kuliner Tuin Van Java,4.5
+U028,YANGKOMOCHI MAGELANG,4.4
+U028,Warung Makan Purnama,4.1
+U028,Rumah Makan Kanjeng Mami,4.7
+U028,Sate Jambu Muntilan (Kuliner Magelang - Jogja),4.6
+U028,Geblek Gathuk Magelang,5.0
+U028,Kupat tahu Pak Slamet Magelang,4.1
+U029,Sop Buntut Haji Wongso Magelang,4.1
+U029,"NAOKI CHICKEN AND PLAYGROUND BANDONGAN, MAGELANG",4.5
+U029,Emado's Shawarma Magelang,4.6
+U029,Kuliner Rest Area Banjarnegoro,4.0
+U029,Mie Gacoan Tidar Magelang,4.9
+U029,Warung makan Mbok Tu,4.6
+U029,RM. Bale Kambang,4.1
+U029,Pusat Oleh - Oleh Lezat,4.3
+U029,Soto Ayam Pak Trimo,4.3
+U029,Bakmi Pangsit Tjek Siang,4.5
+U029,Geblek Gathuk Magelang,4.8
+U029,RM Laras Hati,4.5
+U029,Patio Colonial,4.9
+U029,Kuliner sejuta bunga,4.0
+U029,"Bakso dan Nasi Goreng Pak Eko , Kuliner TVJ alun alun",4.3
+U029,Rumah Makan Tip Top,4.4
+U030,Es Coklat Impian Magelang,4.5
+U030,Patio Colonial,4.8
+U030,Bakso Enak Kutoarjo,4.5
+U030,RM Ayam Kosek Panjiwo (PUSAT),4.5
+U030,Kuliner Rindam,4.6
+U030,Choky Spaghetti - Magelang Kota,5.0
+U030,Kuliner Serayu,4.3
+U030,Waroeng Kemboelan,4.6
+U030,Pasar Rejowinangun Kota Magelang,4.4
+U030,Emado's Shawarma Magelang,4.4
+U030,Gudeg Poncol,4.4
+U030,Kuliner sejuta bunga,3.9
+U030,Cafetaria Cemara Dua,4.2
+U030,ANEKA JENANG,4.7
+U031,Sego N'Deso,4.1
+U031,Kuliner Cak Win,4.2
+U031,"Sate Babi dan Sop Bakut 39 Magelang, Cab Pecenongan Jakarta Magelang",4.7
+U031,Warung Makan Opor Entok Johar Sari,4.5
+U031,Geblek Gathuk Magelang,4.7
+U031,Kampung Ulam Ngrajek,4.7
+U031,"NAOKI CHICKEN AND PLAYGROUND BANDONGAN, MAGELANG",5.0
+U031,Ronde Miroso,4.5
+U031,"Tahu Kupat ""PELOPOR""",4.6
+U031,Caping Resto Borobudur,4.6
+U031,Kuliner Sigaluh,4.7
+U031,Warung Makan Mbok Ganjar,4.5
+U031,Sop Buntut Haji Wongso Magelang,4.0
+U031,RM Es Eny,4.7
+U031,"Warung Makan Senerek ""Bu Atmo""",4.5
+U031,Depot Es Semanggi,4.8
+U032,Rumah Makan Kanjeng Mami,4.6
+U032,HONMACHI JAPANESE FUSION MAGELANG,5.0
+U032,Kuliner diponegoro magelang,5.0
+U032,Kedai Mbah Hogen,4.4
+U032,Warung Makan Mbok Ganjar,4.5
+U032,Kuliner Sunan Kalijaga Rw.4,4.6
+U032,Sop Senerek Pak Parto,4.3
+U032,Soto Ayam Mbah Mul,4.9
+U032,Aoka Resto - Kuliner Papua Magelang,4.8
+U032,WM Sehati Spesial Mangut Beong dan Homestay,4.5
+U032,Warung Makan Opor Entok Johar Sari,4.7
+U033,Alun-Alun Kota Magelang,4.6
+U033,"Sate Babi dan Sop Bakut 39 Magelang, Cab Pecenongan Jakarta Magelang",4.6
+U033,Joglo Tanjung,4.1
+U033,Kuliner diponegoro magelang,5.0
+U033,Nasi Lesah & Nasi Sayur Pak Badut,4.6
+U033,Angkringan Mas Didot,4.1
+U033,RM. Bale Kambang,4.0
+U033,"Kuliner Legend ""Mie AA Chinese Food""",4.5
+U033,Kuliner Rest Area Banjarnegoro,4.2
+U033,"Wajik Salaman Ny. In, Oleh-oleh Magelang, Makanan khas Magelang",4.5
+U033,Warung Makan Opor Entok Johar Sari,4.7
+U033,Gudeg Poncol,4.6
+U033,Geblek Gathuk Magelang,5.0
+U033,Pondok Bakaran,4.2
+U033,Kedai Bukit Rhema,5.0
+U033,Sego N'Deso,4.3
+U033,Gohan-Ku Magelang,4.4
+U033,Lombok Idjo Magelang,4.8
+U033,Kuliner Serayu,4.5
+U033,Warung Makan Purnama,4.5
+U034,Ramenhead Magelang,4.7
+U034,Bakso Enak Kutoarjo,4.4
+U034,Gohan-Ku Magelang,4.5
+U034,Stupa Restaurant,4.4
+U034,Keboen Semilir,4.0
+U034,Angkringan Mas Didot,4.4
+U034,"Gado-Gado Jelita (Kuliner Kauman , Kota Magelang Tengah)",4.0
+U034,"NAOKI CHICKEN AND PLAYGROUND BANDONGAN, MAGELANG",4.8
+U034,Bond Cafe,4.5
+U034,"Chinese Food ""Pak Sar""(Pawirokusuman)",4.8
+U034,Warung Bakmi Pak Min,4.1
+U034,Kitakata Ramen & Donburi Magelang,4.9
+U034,Patio Colonial,4.7
+U034,Wedang Kacang Kebon,4.8
+U034,Kuliner Lembah Tidar,4.2
+U034,Seafood Alun Alun Magelang,4.5
+U034,Emado's Shawarma Magelang,4.5
+U035,YANGKOMOCHI MAGELANG,4.6
+U035,Keboen Semilir,4.6
+U035,Choky Spaghetti - Magelang Kota,5.0
+U035,Soto Ayam Mbah Mul,4.7
+U035,Warung makan Mbok Tu,4.3
+U035,Kuliner diponegoro magelang,5.0
+U035,Ronde Miroso,4.3
+U035,Warung Senerek Sabar Menanti,4.8
+U035,"Chinese Food ""Pak Sar""(Pawirokusuman)",4.5
+U035,Rumah Makan Kanjeng Mami,4.5
+U035,Ayam Penyet Surabaya Magelang,4.5
+U035,Bakmi Pangsit Tjek Siang,4.3
+U035,PHUKET - Authentic Southern Thai Food & Grocery Store,5.0
+U036,Momoyo Tanjung Magelang,4.4
+U036,Stupa Restaurant,4.6
+U036,Kuliner diponegoro magelang,5.0
+U036,Alun-Alun Kota Magelang,4.8
+U036,Kupat Tahu Dompleng Bu supardi blabak,4.7
+U036,Lokal Folk Cafe Magelang,4.8
+U036,RM Ayam Kosek Panjiwo (PUSAT),4.3
+U036,Rumah Makan Kanjeng Mami,4.6
+U036,Pasar Rejowinangun Kota Magelang,4.6
+U036,Waroeng Kemboelan,5.0
+U037,Tahu Pojok Magelang 1,4.3
+U037,Kuliner Rest Area Banjarnegoro,4.1
+U037,Wedang Kacang Kebon,4.3
+U037,Koki Joni Magelang,4.6
+U037,Gudeg Poncol,4.1
+U037,Kuliner Rindam,4.3
+U037,"Gado-Gado Jelita (Kuliner Kauman , Kota Magelang Tengah)",3.8
+U037,Warung Makan Purnama,4.1
+U037,Choky Spaghetti - Magelang Kota,4.8
+U037,"Chinese Food ""Pak Sar""(Pawirokusuman)",4.7
+U037,Depot Es Semanggi,4.4
+U037,Caping Resto Borobudur,4.6
+U037,Pusat Kuliner Armada Estate,4.5
+U037,Pondok Bakaran,4.3
+U037,Cafe and Resto Mr.jo Magelang,4.8
+U037,Ayam Penyet Surabaya Magelang,4.3
+U037,Alun-Alun Kota Magelang,4.6
+U037,Geblek Gathuk Magelang,4.8
+U038,RM Es Eny,4.3
+U038,Bakso Enak Kutoarjo,4.8
+U038,Kuliner Sunan Kalijaga Rw.4,4.9
+U038,Kuliner Tuin Van Java,4.2
+U038,Sate Ayam Sidomoro,4.3
+U038,ANEKA JENANG,4.5
+U038,Joglo Tanjung,4.2
+U038,Warung Makan Purnama,4.4
+U038,Rumah Makan Magelang,4.0
+U038,"Sate Babi dan Sop Bakut 39 Magelang, Cab Pecenongan Jakarta Magelang",4.7
+U038,Aoka Resto - Kuliner Papua Magelang,4.8
+U038,RM Ayam Kosek Panjiwo (PUSAT),4.1
+U038,Geblek Gathuk Magelang,5.0
+U038,HONMACHI JAPANESE FUSION MAGELANG,5.0
+U038,Kuliner sejuta bunga,4.3
+U038,RM Laras Hati,4.8
+U038,Cafe and Resto Mr.jo Magelang,4.8
+U038,"Bakso dan Nasi Goreng Pak Eko , Kuliner TVJ alun alun",4.8
+U038,WM Sehati Spesial Mangut Beong dan Homestay,4.7
+U038,Toxic Magelang,4.8
+U039,Sop Buntut Haji Wongso Magelang,4.2
+U039,ANEKA JENANG,4.4
+U039,PKL Mertoyudan,4.1
+U039,Mie Gacoan Tidar Magelang,4.8
+U039,Cafe and Resto Mr.jo Magelang,4.4
+U039,Angkringan Mas Didot,4.5
+U039,Kuliner Rest Area Banjarnegoro,3.9
+U039,RM Es Eny,4.3
+U039,Rumah Makan Magelang,4.1
+U039,"Wajik Salaman Ny. In, Oleh-oleh Magelang, Makanan khas Magelang",4.9
+U039,Momoyo Tanjung Magelang,4.4
+U039,Seafood Alun Alun Magelang,4.1
+U039,Cafetaria Cemara Dua,4.2
+U040,Warung Bakmi Pak Min,4.1
+U040,"Kuliner Legend ""Mie AA Chinese Food""",4.2
+U040,Rumah Makan Elok Saiyo,4.7
+U040,Kuliner Cak Win,3.9
+U040,Bakmi Pangsit Tjek Siang,4.6
+U040,Sego N'Deso,4.4
+U040,Kupat Tahu Pak Larto,4.5
+U040,Restoran Pringgondani,4.8
+U040,RM Es Eny,4.4
+U040,Makanan Beku,4.8
+U040,Sate Jambu Muntilan (Kuliner Magelang - Jogja),4.6
+U040,PHUKET - Authentic Southern Thai Food & Grocery Store,4.7
+U040,Ayam Goreng Ninit,4.2
+U040,"Chinese Food ""Pak Sar""(Pawirokusuman)",4.5
+U040,Alun-Alun Kota Magelang,4.7
+U040,Kupat tahu Pak Slamet Magelang,4.2
+U040,ANEKA JENANG,4.5
+U040,BS Resto,4.5
+U041,Sop Senerek Pak Parto,4.6
+U041,Rumah Makan Magelang,4.5
+U041,Choky Spaghetti - Magelang Kota,4.8
+U041,Rumah Makan Kanjeng Mami,4.6
+U041,"Warung Makan Senerek ""Bu Atmo""",4.3
+U041,Kuliner Rest Area Banjarnegoro,4.5
+U041,"Tahu Kupat ""PELOPOR""",4.3
+U041,Nasi Goreng Pak Dodok,4.5
+U041,Warung Makan Mbok Ganjar,4.3
+U041,"Gado-Gado Jelita (Kuliner Kauman , Kota Magelang Tengah)",4.0
+U041,Truntum Gasblock Borobudur,4.4
+U041,Mie Gacoan Tidar Magelang,4.7
+U041,Kuliner Jenggolo,4.8
+U041,Wedang Kacang Kebon,4.7
+U041,Cafe and Resto Mr.jo Magelang,5.0
+U042,Kuliner sejuta bunga,3.8
+U042,"Chinese Food ""Pak Sar""(Pawirokusuman)",4.6
+U042,RM Amis Amis Magelang,4.2
+U042,Lokal Folk Cafe Magelang,4.5
+U042,"Tahu Kupat ""PELOPOR""",4.7
+U042,Kuliner magelang,2.9
+U042,Kupat Tahu Dompleng Bu supardi blabak,4.7
+U042,Pusat Kuliner Armada Estate,4.5
+U042,Kupat Tahu Pak Larto,4.3
+U042,Menoreh Restaurant,4.6
+U042,Truntum Gasblock Borobudur,4.9
+U042,Kuliner diponegoro magelang,5.0
+U042,Kuliner Lembah Tidar,4.5
+U042,Tahu Pojok Magelang 1,4.3
+U042,WM Sehati Spesial Mangut Beong dan Homestay,4.3
+U042,Bakmi Jendralan,4.5
+U043,Nasi Lesah & Nasi Sayur Pak Badut,4.5
+U043,Pasar Rejowinangun Kota Magelang,4.6
+U043,Kedai Mbah Hogen,4.6
+U043,Ramenhead Magelang,4.3
+U043,Lombok Idjo Magelang,5.0
+U043,Restaurant La Table by Le Temple Borobudur,4.9
+U043,Kedai Bukit Rhema,5.0
+U043,Wedang Kacang Kebon,4.5
+U043,Kupat Tahu Pak Larto,4.9
+U043,Pondok Bakaran,4.7
+U044,RM Es Eny,4.2
+U044,ANEKA JENANG,4.6
+U044,Pasar Kebon Watu Gede,4.2
+U044,BS Resto,4.1
+U044,Cafetaria Cemara Dua,4.4
+U044,Patio Colonial,4.7
+U044,"Warung Makan Senerek ""Bu Atmo""",4.6
+U044,Lombok Idjo Magelang,4.8
+U044,Kuliner Tuin Van Java,4.2
+U044,PKL Mertoyudan,4.4
+U044,Emado's Shawarma Magelang,4.4
+U044,Pasar Rejowinangun Kota Magelang,4.7
+U044,Koki Joni Magelang,4.8
+U044,Kuliner sejuta bunga,3.9
+U044,Warung Makan Mbok Ganjar,4.6
+U044,"Kuliner Legend ""Es Murni Magelang""",4.3
+U044,Waroeng Kemboelan,5.0
+U044,Nasi Lesah & Nasi Sayur Pak Badut,4.7
+U045,Kuliner Rindam,4.5
+U045,Sop Senerek Pak Parto,4.4
+U045,Menoreh Restaurant,4.6
+U045,Special Seblak Prasmanan Jajan Yuk Magelang,4.6
+U045,Bakmi Pangsit Tjek Siang,4.5
+U045,Geblek Gathuk Magelang,5.0
+U045,RM Ayam Kosek Panjiwo (PUSAT),4.5
+U045,Sate Ayam Sidomoro,4.2
+U045,Kampung Ulam Ngrajek,4.6
+U045,Warung Makan Mbok Ganjar,4.7
+U045,Sop Buntut Haji Wongso Magelang,4.2
+U045,Stupa Restaurant,4.7
+U045,Wedang Kacang Kebon,4.7
+U045,Lombok Idjo Magelang,4.6
+U045,Kuliner Lembah Tidar,4.3
+U045,Kuliner Rest Area Banjarnegoro,4.0
+U046,Makanan Beku,4.7
+U046,Bakso Enak Kutoarjo,4.7
+U046,Makanan Khas Magelang,3.6
+U046,Kuliner magelang,2.8
+U046,RM Amis Amis Magelang,4.5
+U046,Pusat Kuliner Armada Estate,4.6
+U046,Warung Senerek Sabar Menanti,4.5
+U046,"Bakso dan Nasi Goreng Pak Eko , Kuliner TVJ alun alun",4.7
+U046,Kuliner Sunan Kalijaga Rw.4,4.7
+U046,RM Es Eny,4.3
+U046,Bakmi Jendralan,4.2
+U046,Lokal Folk Cafe Magelang,4.5
+U046,Kuliner Rindam,4.5
+U046,Kuliner Serayu,4.8
+U046,Rumah Makan Kanjeng Mami,4.9
+U047,Warung Makan Purnama,4.3
+U047,"NAOKI CHICKEN AND PLAYGROUND BANDONGAN, MAGELANG",5.0
+U047,Rumah Makan Tip Top,4.4
+U047,PKL Mertoyudan,4.3
+U047,Sop Senerek Pak Parto,4.2
+U047,YANGKOMOCHI MAGELANG,4.6
+U047,Kuliner Cak Win,3.9
+U047,Rame Rame Cafeatery Magelang,4.9
+U047,Lokal Folk Cafe Magelang,4.6
+U047,Cafetaria Cemara Dua,4.6
+U048,Truntum Gasblock Borobudur,4.4
+U048,Rumah Makan Magelang,4.1
+U048,Kuliner Jenggolo,4.8
+U048,Nasi Goreng Pak Dodok,4.2
+U048,"Warung Makan Senerek ""Bu Atmo""",4.6
+U048,Sop Buntut Haji Wongso Magelang,4.4
+U048,Kuliner Serayu,4.4
+U048,Cafetaria Cemara Dua,4.4
+U048,Kupat Tahu Pak Larto,4.5
+U048,WM Sehati Spesial Mangut Beong dan Homestay,4.5
+U048,Sego N'Deso,4.1
+U048,Nasi Godog & Bakmi Pak Naryo Rindam Magelang,4.4
+U048,Es Coklat Impian Magelang,4.1
+U048,Pondok Bakaran,4.7
+U048,Rumah Makan Tip Top,4.6
+U048,"Gado-Gado Jelita (Kuliner Kauman , Kota Magelang Tengah)",4.0
+U048,Kupat tahu Pak Slamet Magelang,4.1
+U048,HONMACHI JAPANESE FUSION MAGELANG,5.0
+U048,Kuliner Kartika Sari,4.1
+U049,Sego N'Deso,4.2
+U049,Geblek Gathuk Magelang,4.8
+U049,Cafetaria Cemara Dua,4.5
+U049,"Bakso dan Nasi Goreng Pak Eko , Kuliner TVJ alun alun",4.7
+U049,Menoreh Restaurant,4.7
+U049,Sop Buntut Haji Wongso Magelang,4.0
+U049,Kuliner magelang,2.8
+U049,Rame Rame Cafeatery Magelang,5.0
+U049,"Wajik Salaman Ny. In, Oleh-oleh Magelang, Makanan khas Magelang",4.4
+U049,Bond Cafe,4.2
+U049,BS Resto,4.7
+U050,Pondok Bakaran,4.4
+U050,RM Es Eny,4.2
+U050,Ayam Goreng Ninit,4.4
+U050,Warung Makan Mbok Ganjar,4.6
+U050,Kupat Tahu Pak Pangat,4.5
+U050,Kuliner Kartika Sari,4.3
+U050,Warung Makan Opor Entok Johar Sari,4.5
+U050,"Chinese Food ""Pak Sar""(Pawirokusuman)",4.6
+U050,Caping Resto Borobudur,4.8
+U050,Pasar Kebon Watu Gede,4.1
+U050,Lombok Idjo Magelang,4.7
+U050,Pusat Oleh - Oleh Lezat,4.6
